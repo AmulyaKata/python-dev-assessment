@@ -21,7 +21,9 @@ This project demonstrates my skills in Python programming, Git version control, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/AmulyaKata/python-dev-assessment.git
-   ## Reflections
+   ```
+  
+## Reflections
 
 ### Challenges
 Managing merge conflicts and ensuring code style consistency were some challenges I faced during this assessment.
@@ -31,4 +33,3 @@ Interacting with APIs and handling error debugging was particularly engaging and
 
 ### Learnings
 I improved my Git skills (branching, merging, and resolving conflicts) and deepened my understanding of Python debugging and OOP concepts.
-
