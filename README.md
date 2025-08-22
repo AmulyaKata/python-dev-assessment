@@ -1,5 +1,4 @@
 # Python Developer Assessment
-# Python Developer Assessment
 
 This repository contains my developer assessment tasks for Python development.
 
